@@ -1,7 +1,7 @@
 {
    "name":"Activity 4",
-   "priority": 2,
-   "shortDescription": "priority 2",
+   "priority": 59,
+   "shortDescription": "priority 59",
    "icon":"customActivityManual.svg",
    "descriptionMarkdown":"Activity1.md",
    "topology": [
