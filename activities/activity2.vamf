@@ -1,0 +1,14 @@
+{
+   "name":"Activity B",
+   "priority": 50,
+   "shortDescription": "priority: 50",
+   "icon":"customActivityManual.svg",
+   "descriptionMarkdown":"Activity1.md",
+   "topology": [
+{
+      "name": "Topology 1",
+      "actionTitle":"Reserve",
+      "description": "Create an immediate reservation on the topology",
+      "reservationDuration":""
+    }]
+}
